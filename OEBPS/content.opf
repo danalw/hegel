@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="2017-05-21T20:34:40.879000+00:00" name="calibre:timestamp"/>
+    <dc:creator>Neznámý</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9b456652-96d5-49b9-9aa5-962cae004f99</dc:identifier>
+    <dc:language>cs</dc:language>
+    <dc:title>c 1</dc:title>
+    <meta content="0.9.5" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2017-05-28</dc:date>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/cover.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/Hegel_obsah.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/Hegel_titulka.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/Predmluva.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Misc/metadata.opf" id="id7" media-type="application/oebps-package+xml"/>
+    <item href="Text/Sobotka.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Styles/template.css" id="id9" media-type="text/css"/>
+    <item href="toc_1.ncx" id="id10" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/I.html" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/II.HTML" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/III.HTML" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/IV.HTML" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/V.HTML" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/VI.HTML" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/VII.HTML" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/VIII.HTML" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Styles/stylesheet.css" id="id6" media-type="text/css"/>
+    <item href="Text/Uvod.html" id="id2" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+    <itemref idref="id4"/>
+    <itemref idref="id3"/>
+    <itemref idref="id8"/>
+    <itemref idref="id5"/>
+    <itemref idref="id2"/>
+    <itemref idref="id"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+  </spine>
+  <guide>
+  </guide>
+</package>
