@@ -13,3 +13,8 @@ Přeložil a poznámkovým aparátem z německého originálu opatřil Jan Pato�
 <br/>
 <i>Nechť je vše ku prospěchu obce! J. Patočka</i>:)
 
+<br/>
+<br/>
+<li>Jak pokračujeme v převodu -> <a href="https://github.com/danalw/hegel/wiki">wiki</a></li>
+<li>Našli jste chybu? Skvěle! -> <a href="https://github.com/danalw/hegel/issues">issue</a></li>
+<li>Chcete se zapojit? -> <a href="mailto:lew.dana@gmail.com?Subject=HEGEL%20GITHUB" target="_top">napište mi! :)</a></li>
