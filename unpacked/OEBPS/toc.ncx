@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="cs" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9b456652-96d5-49b9-9aa5-962cae004f99" name="dtb:uid"/>
+    <meta content="6" name="dtb:depth"/>
+    <meta content="calibre (2.54.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>c 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Předmluva1</text>
+      </navLabel>
+      <content src="Text/Predmluva.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>ÚVOD1</text>
+      </navLabel>
+      <content src="Text/Uvod.html#uMSybyYeRQdhHOjIJZJvjDE"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>A. VĚDOMÍ</text>
+      </navLabel>
+      <content src="Text/I.html"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>I. Smyslová jednota</text>
+        </navLabel>
+        <content src="Text/I.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>II. VNĚM ANEB VĚC A KLAM</text>
+        </navLabel>
+        <content src="Text/II.HTML"/>
+        <navPoint id="num_6" playOrder="6">
+          <navLabel>
+            <text>1. [Jednoduchý pojem věci]</text>
+          </navLabel>
+          <content src="Text/II.HTML#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="num_7" playOrder="7">
+          <navLabel>
+            <text>2. [Rozporný vněm věci]</text>
+          </navLabel>
+          <content src="Text/II.HTML#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="num_8" playOrder="8">
+          <navLabel>
+            <text>3. [Pohyb k nepodmíněné obecnosti a k říši rozvažování]</text>
+          </navLabel>
+          <content src="Text/II.HTML#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>III. SÍLA A SCHOPNOST ROZVAŽOVAT ZJEV A NADSMYSLNÝ SVĚT1</text>
+        </navLabel>
+        <content src="Text/III.HTML"/>
+        <navPoint id="num_10" playOrder="10">
+          <navLabel>
+            <text>1. [Síla a hra sil]</text>
+          </navLabel>
+          <content src="Text/III.HTML#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="num_11" playOrder="11">
+          <navLabel>
+            <text>2. [Nitro]</text>
+          </navLabel>
+          <content src="Text/III.HTML#sigil_toc_id_6"/>
+          <navPoint id="num_12" playOrder="12">
+            <navLabel>
+              <text>[(α) Nadsmyslný svět]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="num_13" playOrder="13">
+            <navLabel>
+              <text>[(1) Nitro, zjev, schopnost rozvažovat]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_8"/>
+          </navPoint>
+          <navPoint id="num_14" playOrder="14">
+            <navLabel>
+              <text>[(2) Nadsmyslno jakožto zjev]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_9"/>
+          </navPoint>
+          <navPoint id="num_15" playOrder="15">
+            <navLabel>
+              <text>[(3) Zákon jakožto pravda zjevu]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="num_16" playOrder="16">
+            <navLabel>
+              <text>[(β) Zákon jako rozdíl a stejnojmennost]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_11"/>
+          </navPoint>
+          <navPoint id="num_17" playOrder="17">
+            <navLabel>
+              <text>[(1) Určité zákony a všeobecný zákon]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_12"/>
+          </navPoint>
+          <navPoint id="num_18" playOrder="18">
+            <navLabel>
+              <text>[(2) Zákon a síla]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_13"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_19" playOrder="19">
+          <navLabel>
+            <text></text>
+          </navLabel>
+          <content src="Text/III.HTML#sigil_toc_id_14"/>
+          <navPoint id="num_20" playOrder="20">
+            <navLabel>
+              <text>[(3) Výklad]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_15"/>
+          </navPoint>
+          <navPoint id="num_21" playOrder="21">
+            <navLabel>
+              <text>[(γ) Zákon čistého rozdílu, zvrácený svět]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_16"/>
+          </navPoint>
+          <navPoint id="num_22" playOrder="22">
+            <navLabel>
+              <text>3. [Nekonečnost]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_17"/>
+          </navPoint>
+          <navPoint id="num_23" playOrder="23">
+            <navLabel>
+              <text>[Rekapitulace a závěr]</text>
+            </navLabel>
+            <content src="Text/III.HTML#sigil_toc_id_18"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>B. SEBEVĚDOMÍ</text>
+      </navLabel>
+      <content src="Text/IV.HTML"/>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>IV. PRAVDA JISTOTY O SOBE SAMÉM</text>
+        </navLabel>
+        <content src="Text/IV.HTML#sigil_toc_id_19"/>
+        <navPoint id="num_26" playOrder="26">
+          <navLabel>
+            <text>1. [Sebevědomí o sobě]</text>
+          </navLabel>
+          <content src="Text/IV.HTML#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="num_27" playOrder="27">
+          <navLabel>
+            <text>2. [Život]</text>
+          </navLabel>
+          <content src="Text/IV.HTML#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="num_28" playOrder="28">
+          <navLabel>
+            <text>3. [Já a žádostivost]</text>
+          </navLabel>
+          <content src="Text/IV.HTML#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="num_29" playOrder="29">
+          <navLabel>
+            <text>A. SAMOSTATNOST A NESAMOSTATNOST SEBEVĚDOMÍ; PANSTVÍ A RABSTVÍ</text>
+          </navLabel>
+          <content src="Text/IV.HTML#sigil_toc_id_23"/>
+          <navPoint id="num_30" playOrder="30">
+            <navLabel>
+              <text>1. [Dvojitost sebevědomí]</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_24"/>
+          </navPoint>
+          <navPoint id="num_31" playOrder="31">
+            <navLabel>
+              <text>2. [Zápas protikladných sebevědomí]8</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_25"/>
+          </navPoint>
+          <navPoint id="num_32" playOrder="32">
+            <navLabel>
+              <text>3. [Pán a rab]11</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_26"/>
+            <navPoint id="num_33" playOrder="33">
+              <navLabel>
+                <text>[(α) Panství]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_27"/>
+            </navPoint>
+            <navPoint id="num_34" playOrder="34">
+              <navLabel>
+                <text>[(β) Strach]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_28"/>
+            </navPoint>
+            <navPoint id="num_35" playOrder="35">
+              <navLabel>
+                <text>[(γ) Utváření]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_29"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_36" playOrder="36">
+          <navLabel>
+            <text>B. SVOBODA SEBEVĚDOMÍ; STOICISMUS,SKEPTICISMUS A NEŠŤASTNÉ VĚDOMÍ</text>
+          </navLabel>
+          <content src="Text/IV.HTML#sigil_toc_id_30"/>
+          <navPoint id="num_37" playOrder="37">
+            <navLabel>
+              <text>[Úvod. Stupeň vědomí, jehož je zde dosaženo: myšlení]</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_31"/>
+          </navPoint>
+          <navPoint id="num_38" playOrder="38">
+            <navLabel>
+              <text>1. [Stoicismus]</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_32"/>
+            <navPoint id="num_39" playOrder="39">
+              <navLabel>
+                <text>2. [Skepticismus]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_33"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_40" playOrder="40">
+            <navLabel>
+              <text>3. [Nešťastné vědomí. (Zbožný subjektivismus)]</text>
+            </navLabel>
+            <content src="Text/IV.HTML#sigil_toc_id_34"/>
+            <navPoint id="num_41" playOrder="41">
+              <navLabel>
+                <text>[(α) Měnlivé vědomí]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_35"/>
+            </navPoint>
+            <navPoint id="num_42" playOrder="42">
+              <navLabel>
+                <text>[(β) Podoba neměnného]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_36"/>
+            </navPoint>
+            <navPoint id="num_43" playOrder="43">
+              <navLabel>
+                <text>[(γ) Sjednocení skutečna se sebevědomím]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_37"/>
+            </navPoint>
+            <navPoint id="num_44" playOrder="44">
+              <navLabel>
+                <text>[(1) čisté vědomí, citovost, pobožnost]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_38"/>
+            </navPoint>
+            <navPoint id="num_45" playOrder="45">
+              <navLabel>
+                <text>[(2) Jednotlivá bytnost a skutečnost. Konání zbožného vědomí]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_39"/>
+            </navPoint>
+            <navPoint id="num_46" playOrder="46">
+              <navLabel>
+                <text>[(3) Sebevědomí přichází k rozumu. (Askese.)]</text>
+              </navLabel>
+              <content src="Text/IV.HTML#sigil_toc_id_40"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>C. ROZUM</text>
+      </navLabel>
+      <content src="Text/V.HTML"/>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>V. JISTOTA A PRAVDA ROZUMU</text>
+        </navLabel>
+        <content src="Text/V.HTML#sigil_toc_id_41"/>
+        <navPoint id="num_49" playOrder="49">
+          <navLabel>
+            <text>1. [Idealismus]1</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_42"/>
+        </navPoint>
+        <navPoint id="num_50" playOrder="50">
+          <navLabel>
+            <text>2. [Kategorie]</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_43"/>
+        </navPoint>
+        <navPoint id="num_51" playOrder="51">
+          <navLabel>
+            <text>3. [Poznávání v prázdném (subjektivním) idealismu]</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_44"/>
+        </navPoint>
+        <navPoint id="num_52" playOrder="52">
+          <navLabel>
+            <text>A. ROZUM POZORUJÍCÍ</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_45"/>
+          <navPoint id="num_53" playOrder="53">
+            <navLabel>
+              <text>I. [Pozorování přírodnin]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_46"/>
+            <navPoint id="num_54" playOrder="54">
+              <navLabel>
+                <text>[(α) Popis]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_47"/>
+            </navPoint>
+            <navPoint id="num_55" playOrder="55">
+              <navLabel>
+                <text>[(β) Vytýkání znaků]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_48"/>
+            </navPoint>
+            <navPoint id="num_56" playOrder="56">
+              <navLabel>
+                <text>[(γ) Nacházení zákonů]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_49"/>
+            </navPoint>
+            <navPoint id="num_57" playOrder="57">
+              <navLabel>
+                <text>[(1) Pojem zákona a zkušenost o něm]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_50"/>
+            </navPoint>
+            <navPoint id="num_58" playOrder="58">
+              <navLabel>
+                <text>[(2) Experiment]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_51"/>
+            </navPoint>
+            <navPoint id="num_59" playOrder="59">
+              <navLabel>
+                <text>[(3) Materie]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_52"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_60" playOrder="60">
+            <navLabel>
+              <text>2. [Po zorováni organična]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_53"/>
+            <navPoint id="num_61" playOrder="61">
+              <navLabel>
+                <text>[(A) Všeobecné určení organična]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_54"/>
+            </navPoint>
+            <navPoint id="num_62" playOrder="62">
+              <navLabel>
+                <text>[(1) Organično a říše živlů]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_55"/>
+            </navPoint>
+            <navPoint id="num_63" playOrder="63">
+              <navLabel>
+                <text>[(2) Pojem účelu v pojetí rozumového instinktu]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_56"/>
+            </navPoint>
+            <navPoint id="num_64" playOrder="64">
+              <navLabel>
+                <text>[(3) Samočinnost organična, jeho vnitřek a vnějšek]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_57"/>
+            </navPoint>
+            <navPoint id="num_65" playOrder="65">
+              <navLabel>
+                <text>[(B) Organický tvar]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_58"/>
+            </navPoint>
+            <navPoint id="num_66" playOrder="66">
+              <navLabel>
+                <text>[(1) Organické vlastnosti a soustavy]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_59"/>
+            </navPoint>
+            <navPoint id="num_67" playOrder="67">
+              <navLabel>
+                <text>[(2) Momenty vnitřku ve svém vzájemném vztahu]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_60"/>
+            </navPoint>
+            <navPoint id="num_68" playOrder="68">
+              <navLabel>
+                <text>[(3) Vztah stránek vnitřku ke stránkám vnějšku]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_61"/>
+            </navPoint>
+            <navPoint id="num_69" playOrder="69">
+              <navLabel>
+                <text>[(γ) Myšlenka organična]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_62"/>
+            </navPoint>
+            <navPoint id="num_70" playOrder="70">
+              <navLabel>
+                <text>[(1) Organická jednota]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_63"/>
+            </navPoint>
+            <navPoint id="num_71" playOrder="71">
+              <navLabel>
+                <text>[(2) Překonání zákona]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_64"/>
+            </navPoint>
+            <navPoint id="num_72" playOrder="72">
+              <navLabel>
+                <text>[(3) Organický celek, jeho svoboda a určenost]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_65"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_73" playOrder="73">
+            <navLabel>
+              <text>3. [Pozorování přírody jako organického celku]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_66"/>
+            <navPoint id="num_74" playOrder="74">
+              <navLabel>
+                <text>[(α) O r g a n i s a c e neorganického jsoucna, specifická váha, soudržnost, číslo]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_67"/>
+            </navPoint>
+            <navPoint id="num_75" playOrder="75">
+              <navLabel>
+                <text>[(β) Organisace ústrojné přírody: rod, druh, jednotlivost, individuum]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_68"/>
+            </navPoint>
+            <navPoint id="num_76" playOrder="76">
+              <navLabel>
+                <text>[(γ) Život jako nahodilý rozum]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_69"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_77" playOrder="77">
+            <navLabel>
+              <text>1. [Zákony myšlení]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_70"/>
+          </navPoint>
+          <navPoint id="num_78" playOrder="78">
+            <navLabel>
+              <text>2. [Psychologické zákony]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_71"/>
+          </navPoint>
+          <navPoint id="num_79" playOrder="79">
+            <navLabel>
+              <text>3. [Zákon individuality]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_72"/>
+          </navPoint>
+          <navPoint id="num_80" playOrder="80">
+            <navLabel>
+              <text>1. [Fysiognomický význam orgánů]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_73"/>
+          </navPoint>
+          <navPoint id="num_81" playOrder="81">
+            <navLabel>
+              <text>2. [Mnohoznačnost tohoto významu]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_74"/>
+          </navPoint>
+          <navPoint id="num_82" playOrder="82">
+            <navLabel>
+              <text>3. [Frenologie]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_75"/>
+            <navPoint id="num_83" playOrder="83">
+              <navLabel>
+                <text>[(α) Lebka jako vnější skutečnost ducha]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_76"/>
+            </navPoint>
+            <navPoint id="num_84" playOrder="84">
+              <navLabel>
+                <text>[(β) Vztah tvaru lebky k individualitě]</text>
+              </navLabel>
+              <content src="Text/V.HTML#sigil_toc_id_77"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_85" playOrder="85">
+            <navLabel>
+              <text>[(γ) Vloha a skutečnost]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_78"/>
+          </navPoint>
+          <navPoint id="num_86" playOrder="86">
+            <navLabel>
+              <text>[Zakončení]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_79"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_87" playOrder="87">
+          <navLabel>
+            <text>B. ROZUMNÉ SEBEVĚDOMÍ, KTERÉ SE SAMOUSKUTEČŇUJE</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_80"/>
+          <navPoint id="num_88" playOrder="88">
+            <navLabel>
+              <text>(Přehled následujícího oddílu)</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_81"/>
+          </navPoint>
+          <navPoint id="num_89" playOrder="89">
+            <navLabel>
+              <text>1. [Bezprostřední směr pohybu sebevědomí, říše mravnosti]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_82"/>
+          </navPoint>
+          <navPoint id="num_90" playOrder="90">
+            <navLabel>
+              <text>2. [Obrácený pohyb obsažený v tomto směru, vznik morality]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_83"/>
+          </navPoint>
+          <navPoint id="num_91" playOrder="91">
+            <navLabel>
+              <text>a) Slast a nezbytnost32</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_84"/>
+          </navPoint>
+          <navPoint id="num_92" playOrder="92">
+            <navLabel>
+              <text>1. [Slast]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_85"/>
+          </navPoint>
+          <navPoint id="num_93" playOrder="93">
+            <navLabel>
+              <text>2. [Nezbytnost]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_86"/>
+          </navPoint>
+          <navPoint id="num_94" playOrder="94">
+            <navLabel>
+              <text>3. [Rozpor v sebevědomí]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_87"/>
+          </navPoint>
+          <navPoint id="num_95" playOrder="95">
+            <navLabel>
+              <text>b) Zákon srdce a šílenství samolibosti36</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_88"/>
+          </navPoint>
+          <navPoint id="num_96" playOrder="96">
+            <navLabel>
+              <text>1. [Zákon srdce a zákon skutečnosti]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_89"/>
+          </navPoint>
+          <navPoint id="num_97" playOrder="97">
+            <navLabel>
+              <text>2. [Srdce se vkládá do skutečnosti]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_90"/>
+          </navPoint>
+          <navPoint id="num_98" playOrder="98">
+            <navLabel>
+              <text>3. [Vzpoura individuality čili šílenství samolibosti]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_91"/>
+          </navPoint>
+          <navPoint id="num_99" playOrder="99">
+            <navLabel>
+              <text>c) Ctnost a běh tohoto světa37</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_92"/>
+          </navPoint>
+          <navPoint id="num_100" playOrder="100">
+            <navLabel>
+              <text>1. [Vázanost sebevědomí na všeobecno]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_93"/>
+          </navPoint>
+          <navPoint id="num_101" playOrder="101">
+            <navLabel>
+              <text>2. [Běh světa jako skutečnost všeobecna v individualitě]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_94"/>
+          </navPoint>
+          <navPoint id="num_102" playOrder="102">
+            <navLabel>
+              <text>3. [Individualita jako realita všeobecna]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_95"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_103" playOrder="103">
+          <navLabel>
+            <text>C. INDIVIDUALITA, JEŽ SI JEST REÁLNÍO SOBĚ A PRO SEBE</text>
+          </navLabel>
+          <content src="Text/V.HTML#sigil_toc_id_96"/>
+          <navPoint id="num_104" playOrder="104">
+            <navLabel>
+              <text>a) Duchovní zvířena a podvod čili »věc, o kterou běží«40</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_97"/>
+          </navPoint>
+          <navPoint id="num_105" playOrder="105">
+            <navLabel>
+              <text>1. [Pojem individuality jako reální]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_98"/>
+          </navPoint>
+          <navPoint id="num_106" playOrder="106">
+            <navLabel>
+              <text>2. [Věc, o kterou běží, a individualita]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_99"/>
+          </navPoint>
+          <navPoint id="num_107" playOrder="107">
+            <navLabel>
+              <text>3. [Vzájemný podvod a duchovní substance]</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_100"/>
+          </navPoint>
+          <navPoint id="num_108" playOrder="108">
+            <navLabel>
+              <text>b) Rozum zákonodárný</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_101"/>
+          </navPoint>
+          <navPoint id="num_109" playOrder="109">
+            <navLabel>
+              <text>c) Rozum zkoušející zákony45</text>
+            </navLabel>
+            <content src="Text/V.HTML#sigil_toc_id_102"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>VI. DUCH</text>
+        </navLabel>
+        <content src="Text/VI.HTML"/>
+        <navPoint id="num_111" playOrder="111">
+          <navLabel>
+            <text>A. PRAVDIVÝ DUCH, MRAVNOST</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_103"/>
+          <navPoint id="num_112" playOrder="112">
+            <navLabel>
+              <text>a) Mravní svět, lidsky zákon a božsky zákon, muž a žena</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_104"/>
+          </navPoint>
+          <navPoint id="num_113" playOrder="113">
+            <navLabel>
+              <text>1. [Lid a rodina. Zákon světla a právo stínů).</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_105"/>
+            <navPoint id="num_114" playOrder="114">
+              <navLabel>
+                <text>[(α) Lidský zákon]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_106"/>
+            </navPoint>
+            <navPoint id="num_115" playOrder="115">
+              <navLabel>
+                <text>[(β) Božský zákon]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_107"/>
+            </navPoint>
+            <navPoint id="num_116" playOrder="116">
+              <navLabel>
+                <text>[(γ) Právo jednotlivce]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_108"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_117" playOrder="117">
+            <navLabel>
+              <text>2. [Pohyb, který se děje uvnitř každého z obou zákonů]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_109"/>
+            <navPoint id="num_118" playOrder="118">
+              <navLabel>
+                <text>[(α) Vláda, válka, záporná moc]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_110"/>
+            </navPoint>
+            <navPoint id="num_119" playOrder="119">
+              <navLabel>
+                <text>[(β) Mravní vztah muže a ženy jakožto bratra a sestry]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_111"/>
+            </navPoint>
+            <navPoint id="num_120" playOrder="120">
+              <navLabel>
+                <text>[(γ) Vzájemný přechod obou stránek, božskéhoa lidského zákona]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_112"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_121" playOrder="121">
+            <navLabel>
+              <text>3. [Mravní svět jakožto nekonečnost či totalita]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_113"/>
+          </navPoint>
+          <navPoint id="num_122" playOrder="122">
+            <navLabel>
+              <text>b) Mravní jednání, vedení lidské a vědění božské, vina o osud</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_114"/>
+          </navPoint>
+          <navPoint id="num_123" playOrder="123">
+            <navLabel>
+              <text>1. [Rozpor bytnosti a individuality]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_115"/>
+          </navPoint>
+          <navPoint id="num_124" playOrder="124">
+            <navLabel>
+              <text>2. [Protiklady mravního jednání]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_116"/>
+          </navPoint>
+          <navPoint id="num_125" playOrder="125">
+            <navLabel>
+              <text>3. [Rozklad mravní bytnosti]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_117"/>
+          </navPoint>
+          <navPoint id="num_126" playOrder="126">
+            <navLabel>
+              <text>c) Právní stav</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_118"/>
+          </navPoint>
+          <navPoint id="num_127" playOrder="127">
+            <navLabel>
+              <text>1. [Platnost osoby práva]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_119"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_128" playOrder="128">
+          <navLabel>
+            <text>2. [Nahodilost osoby práva]</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_120"/>
+        </navPoint>
+        <navPoint id="num_129" playOrder="129">
+          <navLabel>
+            <text>3. [Abstraktní osoba práva, světapán]</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_121"/>
+        </navPoint>
+        <navPoint id="num_130" playOrder="130">
+          <navLabel>
+            <text>B. DUCH ODCIZENÝ SOBĚ SAMÉMU;VZDĚLÁVÁNÍ</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_122"/>
+          <navPoint id="num_131" playOrder="131">
+            <navLabel>
+              <text>a) Říše ducha sobě odcizeného</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_123"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_132" playOrder="132">
+          <navLabel>
+            <text>(I.) Vzdělávání a jeho říše skutečnosti</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_124"/>
+          <navPoint id="num_133" playOrder="133">
+            <navLabel>
+              <text>1. [Vzdělávání jako odcizení přirozeného bytí]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_125"/>
+            <navPoint id="num_134" playOrder="134">
+              <navLabel>
+                <text>[(α) Dobré a zlé, státní moc a bohatství]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_126"/>
+            </navPoint>
+            <navPoint id="num_135" playOrder="135">
+              <navLabel>
+                <text>[(ß) Soud sebevědomí, vědomí ušlechtilé a podlé]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_127"/>
+            </navPoint>
+            <navPoint id="num_136" playOrder="136">
+              <navLabel>
+                <text>[(γ) Služba a rada]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_128"/>
+            </navPoint>
+            <navPoint id="num_137" playOrder="137">
+              <navLabel>
+                <text>2. [Řeč jako skutečnost odcizení čili vzdělávání]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_129"/>
+            </navPoint>
+            <navPoint id="num_138" playOrder="138">
+              <navLabel>
+                <text>[(α) Lichocení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_130"/>
+            </navPoint>
+            <navPoint id="num_139" playOrder="139">
+              <navLabel>
+                <text>[(ß) Řeč rozervanosti]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_131"/>
+            </navPoint>
+            <navPoint id="num_140" playOrder="140">
+              <navLabel>
+                <text>[(γ) Marnivost vzdělanosti]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_132"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_141" playOrder="141">
+          <navLabel>
+            <text>(II) Víra a čisté pochopení</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_133"/>
+          <navPoint id="num_142" playOrder="142">
+            <navLabel>
+              <text>1. [Myšlenka víry]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_134"/>
+          </navPoint>
+          <navPoint id="num_143" playOrder="143">
+            <navLabel>
+              <text>2. [Předmět víry]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_135"/>
+          </navPoint>
+          <navPoint id="num_144" playOrder="144">
+            <navLabel>
+              <text>3. [Rozumnost čistého pochopení]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_136"/>
+          </navPoint>
+          <navPoint id="num_145" playOrder="145">
+            <navLabel>
+              <text>1. [Záporný vztah pochopení k víře]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_137"/>
+            <navPoint id="num_146" playOrder="146">
+              <navLabel>
+                <text>[(α) Rozšíření čistého pochopení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_138"/>
+            </navPoint>
+            <navPoint id="num_147" playOrder="147">
+              <navLabel>
+                <text>[(ß) Pochopení v protikladu k víře]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_139"/>
+            </navPoint>
+            <navPoint id="num_148" playOrder="148">
+              <navLabel>
+                <text>[(γ) Pochopení jako nepochopení sebe]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_140"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_149" playOrder="149">
+            <navLabel>
+              <text>2. [Osvícenská nauka]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_141"/>
+            <navPoint id="num_150" playOrder="150">
+              <navLabel>
+                <text>[(α) Osvícenství kazí víru]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_142"/>
+            </navPoint>
+            <navPoint id="num_151" playOrder="151">
+              <navLabel>
+                <text>[(ß) Kladné these osvícenství]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_143"/>
+            </navPoint>
+            <navPoint id="num_152" playOrder="152">
+              <navLabel>
+                <text>[(γ) Užitečnost základním pojmem osvícenství]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_144"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_153" playOrder="153">
+            <navLabel>
+              <text>3. [Oprávněnost osvícenství]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_145"/>
+            <navPoint id="num_154" playOrder="154">
+              <navLabel>
+                <text>[(α) Svéhybnost myšlenky]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_146"/>
+            </navPoint>
+            <navPoint id="num_155" playOrder="155">
+              <navLabel>
+                <text>[(ß) Kritika posic víry]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_147"/>
+            </navPoint>
+            <navPoint id="num_156" playOrder="156">
+              <navLabel>
+                <text>[(γ) Víra se stává prázdnou]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_148"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_157" playOrder="157">
+          <navLabel>
+            <text>(II) Pravdivost osvícenství</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_149"/>
+          <navPoint id="num_158" playOrder="158">
+            <navLabel>
+              <text>1. [Čistá myšlenka a čistá hmota]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_150"/>
+          </navPoint>
+          <navPoint id="num_159" playOrder="159">
+            <navLabel>
+              <text>2. [Svět užitečnosti]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_151"/>
+          </navPoint>
+          <navPoint id="num_160" playOrder="160">
+            <navLabel>
+              <text>3. [Sebejistota]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_152"/>
+          </navPoint>
+          <navPoint id="num_161" playOrder="161">
+            <navLabel>
+              <text>1. [Absolutní svoboda]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_153"/>
+          </navPoint>
+          <navPoint id="num_162" playOrder="162">
+            <navLabel>
+              <text>2. [Teror]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_154"/>
+          </navPoint>
+          <navPoint id="num_163" playOrder="163">
+            <navLabel>
+              <text>3. [Procitání svobodné subjektivity]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_155"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_164" playOrder="164">
+          <navLabel>
+            <text>C. DUCH JISTÝ SEBOU Samým; MORALITA</text>
+          </navLabel>
+          <content src="Text/VI.HTML#sigil_toc_id_156"/>
+          <navPoint id="num_165" playOrder="165">
+            <navLabel>
+              <text>1. [Požadovaný soulad povinnosti se skutečností]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_157"/>
+          </navPoint>
+          <navPoint id="num_166" playOrder="166">
+            <navLabel>
+              <text>2. [Božský zákonodárce a nedokonalé morální sebevědomí]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_158"/>
+          </navPoint>
+          <navPoint id="num_167" playOrder="167">
+            <navLabel>
+              <text>3. [Morální svět jakožto představa]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_159"/>
+          </navPoint>
+          <navPoint id="num_168" playOrder="168">
+            <navLabel>
+              <text>1. [Rozpory morálního názoru světa]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_160"/>
+          </navPoint>
+          <navPoint id="num_169" playOrder="169">
+            <navLabel>
+              <text>2. [Moralita se rozplývá ve svém protikladu]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_161"/>
+          </navPoint>
+          <navPoint id="num_170" playOrder="170">
+            <navLabel>
+              <text>3. [Pravda morálního sebevědomí]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_162"/>
+          </navPoint>
+          <navPoint id="num_171" playOrder="171">
+            <navLabel>
+              <text>1. [Svědomí jako svoboda osoby v sobě samé]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_163"/>
+            <navPoint id="num_172" playOrder="172">
+              <navLabel>
+                <text>[(α) Svědomí jakožto skutečnost povinnosti]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_164"/>
+            </navPoint>
+            <navPoint id="num_173" playOrder="173">
+              <navLabel>
+                <text>[(ß) Uznávané přesvědčení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_165"/>
+            </navPoint>
+            <navPoint id="num_174" playOrder="174">
+              <navLabel>
+                <text>[(γ) Absolutní svoboda přesvědčení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_166"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_175" playOrder="175">
+            <navLabel>
+              <text>2. [Všeobecnost svědomí]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_167"/>
+            <navPoint id="num_176" playOrder="176">
+              <navLabel>
+                <text>[(α) Neurčitost přesvědčení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_168"/>
+            </navPoint>
+            <navPoint id="num_177" playOrder="177">
+              <navLabel>
+                <text>[(ß) Řeč přesvědčení]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_169"/>
+            </navPoint>
+            <navPoint id="num_178" playOrder="178">
+              <navLabel>
+                <text>[(γ) Krásná duše49]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_170"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_179" playOrder="179">
+            <navLabel>
+              <text>3. [Zlo a odpuštění zlého]</text>
+            </navLabel>
+            <content src="Text/VI.HTML#sigil_toc_id_171"/>
+            <navPoint id="num_180" playOrder="180">
+              <navLabel>
+                <text>[(α) Konflikt svědomitosti s licoměrností]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_172"/>
+            </navPoint>
+            <navPoint id="num_181" playOrder="181">
+              <navLabel>
+                <text>[(ß) Morální soud]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_173"/>
+            </navPoint>
+            <navPoint id="num_182" playOrder="182">
+              <navLabel>
+                <text>[(γ) Odpuštění a smíření]</text>
+              </navLabel>
+              <content src="Text/VI.HTML#sigil_toc_id_174"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_183" playOrder="183">
+        <navLabel>
+          <text>VII. NÁBOŽENSTVÍ1</text>
+        </navLabel>
+        <content src="Text/VII.HTML"/>
+        <navPoint id="num_184" playOrder="184">
+          <navLabel>
+            <text>A. NÁBOŽENSTVÍ PŘÍRODNÍ</text>
+          </navLabel>
+          <content src="Text/VII.HTML#sigil_toc_id_175"/>
+          <navPoint id="num_185" playOrder="185">
+            <navLabel>
+              <text>a) Světelná bytnost3</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_176"/>
+          </navPoint>
+          <navPoint id="num_186" playOrder="186">
+            <navLabel>
+              <text>b) Rostlina a živočich4</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_177"/>
+          </navPoint>
+          <navPoint id="num_187" playOrder="187">
+            <navLabel>
+              <text>c) Demiurg5</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_178"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_188" playOrder="188">
+          <navLabel>
+            <text>B. UMĚLECKÉ NÁBOŽENSTVÍ7</text>
+          </navLabel>
+          <content src="Text/VII.HTML#sigil_toc_id_179"/>
+          <navPoint id="num_189" playOrder="189">
+            <navLabel>
+              <text>a) Abstraktna umělecké dílo</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_180"/>
+          </navPoint>
+          <navPoint id="num_190" playOrder="190">
+            <navLabel>
+              <text>1. [Socha boha]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_181"/>
+          </navPoint>
+          <navPoint id="num_191" playOrder="191">
+            <navLabel>
+              <text>2. [Hymnus]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_182"/>
+          </navPoint>
+          <navPoint id="num_192" playOrder="192">
+            <navLabel>
+              <text>3. [Kult]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_183"/>
+          </navPoint>
+          <navPoint id="num_193" playOrder="193">
+            <navLabel>
+              <text>b) Živoucí umělecké dílo</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_184"/>
+          </navPoint>
+          <navPoint id="num_194" playOrder="194">
+            <navLabel>
+              <text>c) Duchovní umělecké dílo</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_185"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_195" playOrder="195">
+          <navLabel>
+            <text>1. [Epos]</text>
+          </navLabel>
+          <content src="Text/VII.HTML#sigil_toc_id_186"/>
+          <navPoint id="num_196" playOrder="196">
+            <navLabel>
+              <text>[(α) Jeho mravní svět]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_187"/>
+          </navPoint>
+          <navPoint id="num_197" playOrder="197">
+            <navLabel>
+              <text>[(ß) Lidé a bohové]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_188"/>
+          </navPoint>
+          <navPoint id="num_198" playOrder="198">
+            <navLabel>
+              <text>[(γ) Bohové mezi sebou]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_189"/>
+          </navPoint>
+          <navPoint id="num_199" playOrder="199">
+            <navLabel>
+              <text>2. [Tragedie]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_190"/>
+            <navPoint id="num_200" playOrder="200">
+              <navLabel>
+                <text>[(α) Individuality sboru, hrdinů, božských mocí]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_191"/>
+            </navPoint>
+            <navPoint id="num_201" playOrder="201">
+              <navLabel>
+                <text>[(ß) Dvoj smysl ve vědomí individuality]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_192"/>
+            </navPoint>
+            <navPoint id="num_202" playOrder="202">
+              <navLabel>
+                <text>[(γ) Zánik individuality]18</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_193"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_203" playOrder="203">
+            <navLabel>
+              <text>3. [Komedie]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_194"/>
+            <navPoint id="num_204" playOrder="204">
+              <navLabel>
+                <text>[(α) Bytnost přírodního jsoucna]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_195"/>
+            </navPoint>
+            <navPoint id="num_205" playOrder="205">
+              <navLabel>
+                <text>[(ß) Nebytostnost abstraktní individuality božství]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_196"/>
+            </navPoint>
+            <navPoint id="num_206" playOrder="206">
+              <navLabel>
+                <text>[(γ) Jednotlivá osoba, jistá sebou jako absolutníbytností]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_197"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_207" playOrder="207">
+          <navLabel>
+            <text>C. ZJEVENÉ NÁBOŽENSTVÍ</text>
+          </navLabel>
+          <content src="Text/VII.HTML#sigil_toc_id_198"/>
+          <navPoint id="num_208" playOrder="208">
+            <navLabel>
+              <text>1. [Předpoklady pro pojem zjeveného náboženství]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_199"/>
+          </navPoint>
+          <navPoint id="num_209" playOrder="209">
+            <navLabel>
+              <text>2. [Jednoduchý obsah absolutního náboženství:skutečnost, že bůh se stal člověkem]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_200"/>
+            <navPoint id="num_210" playOrder="210">
+              <navLabel>
+                <text>[(α) Bezprostřední jsoucno božského sebevědomí]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_201"/>
+            </navPoint>
+            <navPoint id="num_211" playOrder="211">
+              <navLabel>
+                <text>[(ß) Dovršení pojmu nejvyšší bytnosti v identitěabstrakce a bezprostřednosti jednotlivou osobou]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_202"/>
+            </navPoint>
+            <navPoint id="num_212" playOrder="212">
+              <navLabel>
+                <text>[(γ) Spekulativní vědění jako představa obcev absolutním náboženství]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_203"/>
+            </navPoint>
+          </navPoint>
+          <navPoint id="num_213" playOrder="213">
+            <navLabel>
+              <text>3. [Vývoj pojmu absolutního náboženství]</text>
+            </navLabel>
+            <content src="Text/VII.HTML#sigil_toc_id_204"/>
+            <navPoint id="num_214" playOrder="214">
+              <navLabel>
+                <text>[(α) Duch sám v sobě, trojice]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_205"/>
+            </navPoint>
+            <navPoint id="num_215" playOrder="215">
+              <navLabel>
+                <text>[(ß) Duch ve svém sebezbavení, říše Syna]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_206"/>
+            </navPoint>
+            <navPoint id="num_216" playOrder="216">
+              <navLabel>
+                <text>[(1) Svět]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_207"/>
+            </navPoint>
+            <navPoint id="num_217" playOrder="217">
+              <navLabel>
+                <text>[(α) Zlé a dobré]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_208"/>
+            </navPoint>
+            <navPoint id="num_218" playOrder="218">
+              <navLabel>
+                <text>[(ß) Spasení a usmíření]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_209"/>
+            </navPoint>
+            <navPoint id="num_219" playOrder="219">
+              <navLabel>
+                <text>[(γ) Duch ve svém vyplnění, říše ducha]</text>
+              </navLabel>
+              <content src="Text/VII.HTML#sigil_toc_id_210"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>VIII. ABSOLUTNÍ VĚDĚNÍ1</text>
+        </navLabel>
+        <content src="Text/VIII.HTML"/>
+        <navPoint id="num_221" playOrder="221">
+          <navLabel>
+            <text>1. [Jednoduchý obsah osoby, která ví o sobě, že je bytím]</text>
+          </navLabel>
+          <content src="Text/VIII.HTML#sigil_toc_id_211"/>
+        </navPoint>
+        <navPoint id="num_222" playOrder="222">
+          <navLabel>
+            <text>2. [Věda jako sebepochopení osoby]</text>
+          </navLabel>
+          <content src="Text/VIII.HTML#sigil_toc_id_212"/>
+        </navPoint>
+        <navPoint id="num_223" playOrder="223">
+          <navLabel>
+            <text>3. [Pochopený duch ve svém návratu k bezprostřednosti,která má jsoucno]</text>
+          </navLabel>
+          <content src="Text/VIII.HTML#sigil_toc_id_213"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

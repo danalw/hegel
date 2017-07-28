@@ -1,0 +1,235 @@
+@page { 
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;}
+
+body {
+  font-family: "Times New Roman", Georgia, Serif;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-top: 1em;
+  text-align:justify;
+}
+
+
+
+#cover {
+  height:100%;
+  margin:0px;
+  padding: 0px;
+}
+
+.au{
+display: block;
+font-size: xx-large;
+text-align: center;
+font-style: normal;
+margin-top: 4em;
+margin-bottom: 1em;
+}
+
+.tit{
+display: block;
+font-size: large;
+text-align: center;
+margin-bottom: 4em;
+}
+
+.stit{
+display: block;
+font-size: large;
+text-align: center;
+margin-bottom: 6em;
+}
+
+.imp  {
+display: block;
+font-size: small;
+text-align: center;
+margin-top: 6em;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+.skip {
+  margin: 0;
+  padding: 0;
+  text-indent: -2em;
+  margin-left: 2em;
+}
+.citate {
+  margin: 0;
+  padding: 0;
+  margin-left: 2em;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.bib_list {
+  margin: 0;
+  padding: 0;
+  text-indent: -2em;
+  margin-left: 2em;
+}
+h3, h4 {
+  font-style: italic;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 2em;
+  text-align: center;
+  font-size: 100%;
+}
+h1 {
+  font-size: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+h1.title {
+  font-size: 150%;
+  margin: 0 0 40px 0;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 0;
+  margin: 0 0 0 0;
+  margin-top:50px;
+  font-size: 100%;
+}
+.part {
+  font-size: 150%;
+}
+.blank {
+  padding-bottom: 3em;
+  margin-bottom: 3em;
+  clear: both;
+  visibility: hidden;
+}
+
+
+.TOC_section {
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+}
+#calibre_generated_inline_toc {
+  text-decoration: none;
+  color: black;
+}
+.cover_title {
+  margin-top: 5em;
+  padding-top: 5em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.star {
+  margin: 1em;
+  text-align: center;
+}
+.patitul {
+  text-align: center;
+}
+.index
+{
+  text-align: center;
+}
+
+.text_1 {
+  letter-spacing: 2.5pt;
+  vertical-align: 0;
+}
+.text_10 {
+  color: #000;
+}
+.text_11 {
+  letter-spacing: 1.5pt;
+  vertical-align: 0;
+  font-weight: bold;
+}
+.text_12 {
+  letter-spacing: -0.5pt;
+  vertical-align: 0;
+}
+.text_13 {
+  font-style: italic;
+  letter-spacing: -0.5pt;
+  font-weight: bold;
+}
+.text_14 {
+  font-style: italic;
+}
+.text_15 {
+  letter-spacing: 0;
+  vertical-align: 0;
+  font-weight: bold;
+}
+.text_16 {
+  font-style: italic;
+  font-weight: bold;
+}
+.text_17 {
+  letter-spacing: 2pt;
+  vertical-align: 0;
+}
+.text_18 {
+  color: #F00;
+  font-weight: bold;
+}
+.text_19 {
+  letter-spacing: 0;
+}
+.text_2 {
+  font-style: italic;
+  letter-spacing: 0;
+  vertical-align: 0;
+}
+.text_20 {
+  letter-spacing: 1.5pt;
+  vertical-align: 0;
+}
+.text_21 {
+  color: #F00;
+}
+.text_22 {
+  color: black;
+  letter-spacing: 0;
+  vertical-align: 0;
+  font-weight: bold;
+}
+.text_23 {
+  letter-spacing: 2pt;
+}
+.text_3 {
+  color: black;
+}
+.text_4 {
+  letter-spacing: 0;
+  font-weight: bold;
+}
+.text_5 {
+  font-style: italic;
+  color: black;
+  letter-spacing: 0;
+  vertical-align: 0;
+}
+.text_6 {
+  letter-spacing: -0.5pt;
+}
+.text_7 {
+  letter-spacing: 0;
+  vertical-align: 0;
+}
+.text_8 {
+  font-weight: bold;
+}
+.text_9 {
+  color: #000;
+  font-weight: bold;
+}
+
