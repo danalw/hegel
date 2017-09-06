@@ -1,13 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="calibre_id">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Neznámý</dc:title>
-    <dc:creator opf:file-as="Dana" opf:role="aut">Dana</dc:creator>
-    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.54.0) [http://calibre-ebook.com]</dc:contributor>
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf">
+  <dc:title>FENOMENOLOGIE DUCHA</dc:title>
+  <dcterms:title>FENOMENOLOGIE DUCHA</dcterms:title>
+  <dc:creator opf:role="aut" opf:file-as="Hegel, Georg Wilhelm Friedrich">Georg Wilhelm Friedrich Hegel</dc:creator>
+
+  <dc:contributor opf:role="trl" opf:file-as="Patočka, Jan">Jan Patočka</dc:contributor>
+  <dc:contributor opf:role="edt" opf:file-as="Matějčková, Tereza">Tereza Matějčková</dc:contributor>
+  <dc:contributor opf:role="edt" opf:file-as="Léwová, Dana">Dana Léwová</dc:contributor>
+  <dc:contributor opf:role="edt" opf:file-as="Vít, Jan">Jan Vít</dc:contributor>
+
     <dc:identifier id="calibre_id" opf:scheme="calibre">767f4093-0781-4a42-a1ad-e728a60d8ce9</dc:identifier>
-    <dc:language>ces</dc:language>
-    <dc:publisher>Microsoft</dc:publisher>
-  </metadata>
+  <dc:language>cs</dc:language>
+  <dc:publisher>OIKOYMENH 2017</dc:publisher>
+  
+</metadata>
   <manifest>
     <item href="docx.css" id="id1" media-type="text/css"/>
     <item href="Předmluva.html" id="id2" media-type="application/xhtml+xml"/>

@@ -17,8 +17,8 @@ body {
 /*PAGINACE a PARAGRAPHS*/
 .font_footer
 {
-  float:left;
-  margin:0 1em 0 0;
+  color:red;
+  margin:0 0.2em 0 0.2em;
   }
   
 .block_2
@@ -27,7 +27,10 @@ body {
   margin:0 1em 0 0;
 }  
   
-  
+.spacing
+{
+  letter-spacing: 3px;
+}  
 
 .second {
   text-indent: 2em;
@@ -61,21 +64,32 @@ a {
   font-style: italic; 
 }
 
-/*nadpisy*/
-.font8 {
-  font-size: 18pt;
+/*cover image*/
+#cover-image{
+  height:100%;
+  margin:0px;
+  padding:0px;
 }
+
+/*nadpisy*/
 /*font9 -> H2*/
+h1, h2
+{
+text-align:center;
+}
+
+h3, h4, h5 {
+  margin-top: 2em;
+  text-align: center;
+	font-size:1em;
+}
+
 /*nadpis v poznamkach*/
 .nadpis
 {
 	color:blue;
 	font-size:large;
 	}
-
-.font12 {
-font-size: 12pt;
-}
 
 /*SUP*/
 .font7 {
@@ -102,5 +116,11 @@ font-size: 12pt;
   vertical-align: 0;
 }
 
+#calibre_generated_inline_toc {
+  text-decoration: none;
+  color: black;
+}
 
-
+@media screen and (max-width: 480px) {
+*{font-size:1em;}
+}
