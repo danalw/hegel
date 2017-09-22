@@ -1,8 +1,8 @@
-##Úpravy Patočkova překladu Fenomenologie ducha   
+<h1>Úpravy Patočkova překladu <i>Fenomenologie ducha</i></h1>   
 Interpunkce   
 Francouzské uvozovky převedeny na české, dlouhé pomlčky na standardní krátké   
 
-##Překlepy a chyby v originálu   
+<h1>Překlepy a chyby v originálu</h1>   
 Božkost   
 Odpovědmi   
 Jeu místo jev   
@@ -11,7 +11,7 @@ Terarum – má být terrarum, jedná se o biblický citát, možná doplnit odk
 Yorikova lebka – Yorickova   
 Chybějící čárka: nevědomost tohoto vědomí o tom, co vlastně říká, jest totéž spojení vysokého a nízkého.   
 
-##Ortografické a jiné „modernizační“ úpravy   
+<h1>Ortografické a jiné „modernizační“ úpravy</h1>   
 (uvádím tvar prvního výskytu, odvozené výrazy jsem samozřejmě rovněž odpovídajícím způsobem upravila)   
 Patočka: idea, idei – opraveno na idea – ideje   
 Konversace opraveno na konverzace   
